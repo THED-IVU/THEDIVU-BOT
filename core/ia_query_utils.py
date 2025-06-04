@@ -1,0 +1,1 @@
+# ia_query_utils.py – Dialogue IA, traitement prompt, réponse
