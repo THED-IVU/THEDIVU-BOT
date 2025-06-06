@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+openai
+google-generativeai
+pyttsx3
+SpeechRecognition
